@@ -22,9 +22,9 @@ I'm an **Aspiring Ethical Hacker** and **Cybersecurity Enthusiast** based in Ind
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📫 Connect with Me
-- 🌐 [My Portfolio](https://ajay-khichi.github.io/ajay-khichi/)
+- 🌐 [My Portfolio](https://ajay-khichi.ignishers.in)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ajay-khichi/)
-- 📧 [Email](mailto:ajaykhichi@example.com)
+- 📧 [Email](mailto:ajaysinghkhichi5@gmail.com)
 
 ---
 ⭐️ From [Ajay Khichi](https://github.com/ajay-khichi)
